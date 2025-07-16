@@ -49,7 +49,7 @@ export default function Footer() {
               <a href="mailto:oyatbek09@gmail.com" className="hover:underline">
                 oyatbek09@gmail.com
               </a>
-            </div>
+            </div>  
           </div>
         </div>
 
